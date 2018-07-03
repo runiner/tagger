@@ -1,0 +1,4 @@
+Mark__B-PER Tzukenberg__I-PER visited__O Moscow,__B-LOC to__O meet__O Vladimir__B-PER Putin__I-PER and__O Helen__B-PER Bakery__I-PER
+They__O have__O had__O joy__O together!__O
+D'artagnyan__B-PER O-Reilly__I-PER came__O to__O Bukenghem__B-LOC Palace__I-LOC
+Timofey__B-PER Vasechkin__I-PER works__O for__O Coca-Cola__B-ORG during__O last__O 30__O years__O
